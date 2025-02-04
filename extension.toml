@@ -1,0 +1,7 @@
+id = "zed-color-decorator"
+name = "Color Decorator"
+version = "0.1.0"
+schema_version = 1
+authors = ["Thiago Chirana <engsw.thiago@gmail.com>"]
+description = "A Zed Extension that help you to see the colors in IDE "
+repository = "https://github.com/thiagochirana/zed-color-decorator"
